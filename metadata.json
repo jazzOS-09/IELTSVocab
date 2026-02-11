@@ -1,0 +1,7 @@
+{
+  "name": "IELTSVocab",
+  "description": "Trợ lý học từ vựng IELTS thông minh, cá nhân hóa theo Band điểm mục tiêu của bạn.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
